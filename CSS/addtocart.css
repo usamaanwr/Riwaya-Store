@@ -31,7 +31,7 @@
 
 .cart-details .price {
   font-size: 15px;
-  color: #27ae60;
+  color: yellow;
   font-weight: bold;
 }
 
@@ -57,7 +57,7 @@
 
 /* Delete Icon */
 .delete-icon {
-  color: #e74c3c;
+  color: yellow;
 }
 
 .delete-icon:hover {

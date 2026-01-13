@@ -118,7 +118,7 @@ function isUserSignIn() {
       });
 
       setTimeout(() => {
-        window.location.href = `../HTML/addtocart.html`;
+        window.location.href = `../HTML/shope.html`;
       }, 2500);
     } else if (
       users[i].email === login_Email.value &&
